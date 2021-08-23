@@ -1,8 +1,8 @@
 # Python-
-Python：从入门到实践  
-TempConvert.py实现了摄氏温度到华氏温度的转换并显示   
-month.py实现了输入月份数字，打印对应月份的英文缩写  
-Sports simulation.py实现了投射类运动竞技分析，模拟了运动比赛 
+Python：从入门到实践    
+TempConvert.py实现了摄氏温度到华氏温度的转换并显示     
+month.py实现了输入月份数字，打印对应月份的英文缩写    
+Sports simulation.py实现了投射类运动竞技分析，模拟了运动比赛   
 File merging.py实现了文件管理功能  
 ## 编译与解释
 编译：将高级语言源代码转换成目标代码（机器语言），程序便可执行  
